@@ -1,0 +1,40 @@
+*{
+    background-color:  #34495e;
+    background-size: cover;
+    color: #fff;
+}
+
+.main h1{
+    align-items: center;
+    padding:30px 200px;
+    color: #fff;
+}
+
+.main .name{
+    font-size: 20px;
+    color:#fff;
+    padding: 0 80px;
+    line-height: 80px;
+}
+
+   .main .pw{
+    font-size: 20px;
+    color:#fff;
+    padding: 0 80px;
+    line-height: 10px;
+    
+   }
+
+   button{
+    background-color:"white";
+    border-radius: 30px;
+    cursor: pointer;
+    margin: 60px;
+    padding:10px 30px 10px 30px;
+    font-size:20px;
+}
+
+#btn{
+    color:#fff;
+    line-height: 10px;
+}
